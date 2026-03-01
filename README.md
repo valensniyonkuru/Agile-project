@@ -21,14 +21,11 @@ python app.py
 - `.github/workflows/ci.yml` – CI pipeline (GitHub Actions)  
 - `BACKLOG_AND_SPRINT_PLANS.md` – Backlog, DoD, sprint plans  
 - `SPRINT_REVIEW_Sprint1.md`, `SPRINT_REVIEW_Sprint2.md` – Sprint reviews  
-
-
-
-<img width="1918" height="711" alt="image" src="https://github.com/user-attachments/assets/a14dd96c-f781-4325-963f-311d9073683e" />
-
 - `RETROSPECTIVE_Sprint1.md`, `RETROSPECTIVE_Sprint2.md` – Retrospectives  
 
 ## CI/CD
 
 On push/PR to `main` or `master`, the workflow installs dependencies and runs `pytest tests/ -v`. See `.github/workflows/ci.yml`.
 
+
+<img width="1918" height="711" alt="image" src="https://github.com/user-attachments/assets/a14dd96c-f781-4325-963f-311d9073683e" />
