@@ -1,5 +1,5 @@
 """
-Task API - Sprint 1 & 2 increment.
+Task API - Sprint 1 & 2 increments.
 Endpoints: create, list, get by ID, update, delete; health and logging.
 """
 import logging
